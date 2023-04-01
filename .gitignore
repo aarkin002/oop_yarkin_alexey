@@ -1,0 +1,9 @@
+/.idea/
+/out/
+.idea
+*.iws
+*.iml
+*.ipr
+*.gitignore
+*.xml
+.gitignore
